@@ -2,12 +2,12 @@
 
 Este es el repositorio de prueba para un proyectito en NodeJs
 
-Instalación:
+Instalacion:
 	$ npm install express
 	$ npm install socket.io
 	$ npm install net
 	
-Ejecución:
+Ejecucion:
     $ node server/index.js
 
 # License
