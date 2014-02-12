@@ -10,5 +10,4 @@ Instalacion:
 Ejecucion:
     $ node server/index.js
 
-# License
-MIT 2013 by Carlos Tous
+# Added debug module
